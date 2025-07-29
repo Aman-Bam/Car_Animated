@@ -15,7 +15,7 @@ A smooth and engaging car animation built with pure CSS and JavaScript, featurin
 
 ## 🎥 Demo
 
-Check out the live demo: [Car Animation Demo](https://effervescent-snickerdoodle-380c55.netlify.app/) 
+Check out the live demo: [Car Animation Demo](https://deft-taffy-e72c0b.netlify.app/) 
 
 ## 🚀 Quick Start
 
