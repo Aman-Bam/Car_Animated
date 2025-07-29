@@ -1,7 +1,7 @@
 var audio = document.createElement('audio');
 audio.src = 'sound.mp3';
-// audio.loop = true;
-// audio.autoplay = true; 
+ audio.loop = true;
+ audio.autoplay = true; 
 audio.setAttribute('preload', 'auto');
 document.body.appendChild(audio);
 
@@ -18,7 +18,7 @@ audio.play().catch(() => {
     document.body.appendChild(playButton);
 
     playButton.addEventListener('click', function () {
-        // audio.play();
+         audio.play();
         playButton.remove(); 
     });
 });
